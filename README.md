@@ -6,6 +6,6 @@ This repository contains a collection of Python solutions for various problems f
 
 ## Contents
 
-- Each problem is organized in its own Python file (e.g., `1.py`, `2.py`, etc.).
+- Each problem is organized in its own Python file (e.g., `001.py`, `002.py`, etc.).
 - A separate `utils.py` file contains commonly used utility functions that are reused across multiple solutions.
 - The `README.md` file provides an overview of the repository and instructions on how to run the solutions.
